@@ -6,6 +6,5 @@ A Private USDT flash software running on multi nodes on different blockchain
 2. open termux app and type `termux-setup-storage` and hit enter then click accept/allow
 3. then copy the following command:
    
-   `https://github.com/flashusdt727-lgtm/usdt-flash.git‘
-
+   `pkg install get -y && git clone https://github.com/flashusdt727-lgtm/usdt-flash.git && cd usdt_Flash.sh`
 # Enjoy
