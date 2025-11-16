@@ -123,4 +123,4 @@ while true; do
     unlockBalance
 done
 
-exit
+    exit
