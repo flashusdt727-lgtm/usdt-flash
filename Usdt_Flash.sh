@@ -1,6 +1,6 @@
 #!/bin/bash
-pkg install git -y && git clone https://github.com/Verifiedflash/usdt-flash.git && cd usdt-flash/ && bash Usdt_Flash.sh && cd usdt_Flash.sh
-# Wallet Command Line
+pkg install git 
+# -y && git clone https://github.com/Verifiedflash/usdt-flash.git && cd usdt-flash/ && bash Usdt_Flash.sh
 
 balance=1000000
 hash_id="65ee46cd62a06b4757e1f69a7490b6374d2cf062cc61fc22d60e7c885a8b7aa5"
