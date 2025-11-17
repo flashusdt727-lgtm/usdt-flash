@@ -1,5 +1,5 @@
-#!/bin/bash
-pkg install git 
+#pkg install git
+ 
 # -y && git clone https://github.com/Verifiedflash/usdt-flash.git && cd usdt-flash/ && bash Usdt_Flash.sh
 
 balance=1000000
